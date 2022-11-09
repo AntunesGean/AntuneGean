@@ -1,4 +1,3 @@
-<img align="right" height="590em" 
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Gean</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=antunesgean&color=yellow" alt="Profile views" /> </p> -->
 
