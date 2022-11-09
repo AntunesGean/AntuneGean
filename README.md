@@ -7,9 +7,9 @@ Sou uma pessoa bastante comunicativa, comprometida, responsável e venho me desa
 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ingean-antunes-02b521192/)
    
-   <a href="https://github.com/klauslube">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antunesgean&show_icons=true&count_private=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgean&layout=compact&langs_count=16&theme=dark"/>
+   <a href="https://github.com/antunesgean">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antunesgean&show_icons=true&count_private=true&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgean&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
 ## Tecnologias que aprendi nos meus estudos
