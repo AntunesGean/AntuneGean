@@ -1,5 +1,8 @@
-### Olá, eu sou o Gean
-Venho da área da publicidade e propaganda/criação mas nesse ano de 2022 decidi fazer uma transição de carreira para área da tecnologia. Atualmente estudo Desenvolvimento Web na Trybe, venho me desenvolvendo e aprendendo o que é necessário para ingressar no mercado de trabalho e estou adorando esse processo, a cada nova tecnologia que aprendo(conheço) percebo que estou no caminho certo.
+<img align="right" height="590em" 
+<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Gean</h1>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=antunesgean&color=yellow" alt="Profile views" /> </p> -->
+
+Venho da área da publicidade e propaganda/criação mas durante a pandemia decidi fazer uma transição de carreira para área da tecnologia. Atualmente estudo Desenvolvimento Web na Trybe, venho me desenvolvendo e aprendendo o que é necessário para ingressar no mercado de trabalho e estou adorando esse processo, a cada nova tecnologia que aprendo(conheço) percebo que estou no caminho certo.
 
 Sou uma pessoa bastante comunicativa, comprometida, responsável e venho me desafiando no meu aprendizado para poder me tornar referência tecnica na área. Algumas tecnologias aprendidas e projetos feitos são listados abaixos: 
 
