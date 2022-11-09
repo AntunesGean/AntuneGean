@@ -3,7 +3,7 @@
 
 Venho da área da publicidade e propaganda/criação mas durante a pandemia decidi fazer uma transição de carreira para área da tecnologia. Atualmente estudo Desenvolvimento Web na Trybe, venho me desenvolvendo e aprendendo o que é necessário para ingressar no mercado de trabalho e estou adorando esse processo, a cada nova tecnologia que aprendo(conheço) percebo que estou no caminho certo.
 
-Sou uma pessoa bastante comunicativa, comprometida, responsável e venho me desafiando no meu aprendizado para poder me tornar referência tecnica na área. Algumas tecnologias aprendidas estão listados abaixos(projetos feitos em breve): 
+Sou uma pessoa bastante comunicativa, comprometida, responsável e venho me desafiando no meu aprendizado para poder me tornar referência tecnica na área. Algumas tecnologias aprendidas estão listados abaixos (projetos desenvolvidos em breve): 
 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ingean-antunes-02b521192/)
    
