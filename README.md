@@ -14,7 +14,7 @@ Algumas das tecnologias vistas/aprendidas estão listados abaixos (projetos dese
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgean&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
-## Tecnologias que aprendi nos meus estudos
+## Tecnologias que estou me desenvolvendo em meus estudos:
 
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
