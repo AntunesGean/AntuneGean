@@ -1,9 +1,13 @@
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Gean! Tudo bem?</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=antunesgean&color=yellow" alt="Profile views" /> </p> -->
 
-Venho da área da publicidade e propaganda/criação mas durante a pandemia decidi fazer uma transição de carreira para área da tecnologia. Atualmente estudo Desenvolvimento Web na Trybe, venho me desenvolvendo e aprendendo o que é necessário para ingressar no mercado de trabalho e estou adorando esse processo, a cada nova tecnologia que aprendo(conheço) percebo que estou no caminho certo.
+ou comunicativo, extrovertido, detalhista e adoro aprender coisas novas. Gosto de ambientes plurais e inclusivos. Ouço muitos podcasts e gosto de música para trabalhar. Além disso, curto games e o mundo nerd em geral e estou tentando voltar a me exercitar para ter uma vida mais saudável.
 
-Sou uma pessoa bastante comunicativa, comprometida, responsável e venho me desafiando no meu aprendizado para poder me tornar referência tecnica na área. Algumas tecnologias aprendidas estão listados abaixos (projetos desenvolvidos em breve): 
+Sou graduado em Publicidade e Propaganda pela PUC-RS e tenho experiência em setores de marketing. Expertise em criação de materiais para comunicação interna e externa (online, offline, digital, redes sociais e eventos). Estou fazendo uma segunda graduação em Sistemas para Internet pela UniRitter e finalizando a Trybe e seu curso de Fullstack onde me identifiquei com o FrontEnd(React). Em paralelo, estou me desenvolvendo em mobile(Flutter e Swift). Além de a todo momento buscar me aprimorar cada vez mais.
+
+Por causa disso, estou em busca de migração de carreira para o setor de Desenvolvimento Web (Front-end e/ou Mobile). E tenho certeza que posso contribuir em uma equipe comunicativa e assertiva, para somar as minhas experiências e trazer benefícios e crescimento à empresa, enquanto me desafie no aprendizado contínuo e na resolução de problemas.
+
+Algumas das tecnologias vistas/aprendidas estão listados abaixos (projetos desenvolvidos em breve): 
 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ingean-antunes-02b521192/)
    
@@ -33,6 +37,9 @@ Sou uma pessoa bastante comunicativa, comprometida, responsável e venho me desa
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img align="center" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-085741?style=for-the-badge&logo=mongoDB&logoColor=white" />
+  <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-E14839?style=for-the-badge&logo=swift&logoColor=white" />
+  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-279FE5?style=for-the-badge&logo=dart&logoColor=white" />
   
   
   
