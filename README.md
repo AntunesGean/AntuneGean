@@ -1,8 +1,6 @@
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Gean! Tudo bem?</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=antunesgean&color=yellow" alt="Profile views" /> </p> -->
 
-ou comunicativo, extrovertido, detalhista e adoro aprender coisas novas. Gosto de ambientes plurais e inclusivos. Ouço muitos podcasts e gosto de música para trabalhar. Além disso, curto games e o mundo nerd em geral e estou tentando voltar a me exercitar para ter uma vida mais saudável.
-
 Sou graduado em Publicidade e Propaganda pela PUC-RS e tenho experiência em setores de marketing. Expertise em criação de materiais para comunicação interna e externa (online, offline, digital, redes sociais e eventos). Estou fazendo uma segunda graduação em Sistemas para Internet pela UniRitter e finalizando a Trybe e seu curso de Fullstack onde me identifiquei com o FrontEnd(React). Em paralelo, estou me desenvolvendo em mobile(Flutter e Swift). Além de a todo momento buscar me aprimorar cada vez mais.
 
 Por causa disso, estou em busca de migração de carreira para o setor de Desenvolvimento Web (Front-end e/ou Mobile). E tenho certeza que posso contribuir em uma equipe comunicativa e assertiva, para somar as minhas experiências e trazer benefícios e crescimento à empresa, enquanto me desafie no aprendizado contínuo e na resolução de problemas.
