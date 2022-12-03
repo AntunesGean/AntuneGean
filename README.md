@@ -34,7 +34,7 @@ Algumas das tecnologias vistas/aprendidas estão listados abaixos (projetos dese
   <img align="center" alt="chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" />
   <img align="center" alt="sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" />
   <img align="center" alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-  <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img align="center" alt="express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-085741?style=for-the-badge&logo=mongoDB&logoColor=white" />
   <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-E14839?style=for-the-badge&logo=swift&logoColor=white" />
