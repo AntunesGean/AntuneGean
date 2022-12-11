@@ -10,14 +10,14 @@ Algumas das tecnologias vistas/aprendidas estão listados abaixos (projetos dese
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ingean-antunes-02b521192/)
    
    <a href="https://github.com/antunesgean">
-    <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=antunesgean&show_icons=true&count_private=true&theme=dark"/>
-    <img height="150vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgean&layout=compact&langs_count=16&theme=dark"/>
+    <img height="200vw" src="https://github-readme-stats.vercel.app/api?username=antunesgean&show_icons=true&count_private=true&theme=dark"/>
+    <img height="200vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgean&layout=compact&langs_count=16&theme=dark"/>
    </a>
 </div>
  
 ## Tecnologias e ferramentas as quais utilizo em meus estudos:
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block">
    <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
   <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
