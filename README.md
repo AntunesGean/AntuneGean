@@ -12,6 +12,7 @@ Algumas das tecnologias vistas/aprendidas estão listados abaixos (projetos dese
    <a href="https://github.com/antunesgean">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antunesgean&show_icons=true&count_private=true&theme=dark"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgean&layout=compact&langs_count=16&theme=dark"/>
+   </a>
 </div>
  
 ## Tecnologias e ferramentas as quais utilizo em meus estudos:
