@@ -10,8 +10,8 @@ Algumas das tecnologias vistas/aprendidas estão listados abaixos (projetos dese
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ingean-antunes-02b521192/)
    
    <a href="https://github.com/antunesgean">
-    <img height="175vw" src="https://github-readme-stats.vercel.app/api?username=antunesgean&show_icons=true&count_private=true&theme=github_dark"/>
-    <img height="175vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgean&layout=compact&langs_count=16&theme=github_dark"/>
+    <img height="170vw" src="https://github-readme-stats.vercel.app/api?username=antunesgean&show_icons=true&count_private=true&theme=github_dark"/>
+    <img height="170vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgean&layout=compact&langs_count=16&theme=github_dark"/>
    </a>
 </div>
  
