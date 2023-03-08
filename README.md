@@ -5,7 +5,7 @@ Sou graduado em Publicidade e Propaganda pela PUC-RS e tenho experiência em set
 
 Por causa disso, estou em busca de migração de carreira para o setor de Desenvolvimento Web (Front-end e/ou Mobile). E tenho certeza que posso contribuir em uma equipe comunicativa e assertiva, para somar as minhas experiências e trazer benefícios e crescimento à empresa, enquanto me desafie no aprendizado contínuo e na resolução de problemas.
 
-Algumas das tecnologias vistas/aprendidas estão listados abaixos (projetos desenvolvidos em breve): 
+Alguns projetos desenvolvidos e tecnologias vistas/aprendidas estão listados abaixo:
 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ingean-antunes-02b521192/)
    
