@@ -11,7 +11,7 @@ Algumas das tecnologias vistas/aprendidas estão listados abaixos (projetos dese
    
    <a href="https://github.com/antunesgean">
     <img height="170vw" src="https://github-readme-stats.vercel.app/api?username=antunesgean&show_icons=true&count_private=true&theme=github_dark"/>
-    <img height="170vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgean&layout=compact&langs_count=16&theme=github_dark"/>
+    <img height="170vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgean&layout=compact&langs_count=6&theme=github_dark&hide_progress=true"/>
    </a>
 </div>
  
