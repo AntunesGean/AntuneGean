@@ -1,9 +1,11 @@
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Gean! Tudo bem?</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=antunesgean&color=yellow" alt="Profile views" /> </p> -->
 
-Sou graduado em Publicidade e Propaganda pela PUC-RS e tenho experiência em setores de marketing. Expertise em criação de materiais para comunicação interna e externa (online, offline, digital, redes sociais e eventos). Estou fazendo uma segunda graduação em Sistemas para Internet pela UniRitter e finalizando a Trybe e seu curso de Fullstack. Em paralelo, estou me desenvolvendo em mobile(Flutter e Swift). Além de a todo momento buscar me aprimorar cada vez mais.
+Sou um profissional de publicidade e propaganda com experiência em gerenciamento e criação de projetos criativos e soluções de marketing. Estou migrando minha carreira para o desenvolvimento web(frontend e backend) ou mobile, e atualmente estou me dedicando a aprender mais sobre a área.
 
-Por causa disso, estou em busca de migração de carreira para o setor de Desenvolvimento Web (Front-end e/ou Back-end) ou Mobile. E tenho certeza que posso contribuir em uma equipe comunicativa e assertiva, para somar as minhas experiências e trazer benefícios e crescimento à empresa, enquanto me desafie no aprendizado contínuo e na resolução de problemas.
+Atualmente, estou fazendo uma segunda graduiação em Sistemas para Internet e concluindo o curso livre de desenvolvimento full stack da Trybe, onde tive a oportunidade de trabalhar com tecnologias como React, Node e Python, e construir projetos do início ao fim. 
+
+Estou animado para aplicar minhas habilidades em programação e meu conhecimento em comunicação e design para criar experiências digitais únicas e eficazes.
 
 Alguns projetos desenvolvidos e tecnologias vistas/aprendidas estão listados abaixo:
 
