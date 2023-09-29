@@ -8,8 +8,8 @@ Atualmente, estou fazendo uma segunda graduiação em Sistemas para Internet e f
 Estou animado para aplicar minhas habilidades em programação e meu conhecimento em comunicação e design para criar experiências digitais únicas, criativas e eficazes.
 
 Qualquer dúvida, só me chamar no linkedin:
-
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antunesgean/){:target="_blank"} 
+   
+<a href="https://www.linkedin.com/in/antunesgean/" target="_blank"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
    
 Alguns projetos desenvolvidos e tecnologias vistas/aprendidas estão listados abaixo:
 
