@@ -9,7 +9,7 @@ Estou animado para aplicar minhas habilidades em programação e meu conheciment
 
 Qualquer dúvida, só me chamar no linkedin:
 
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antunesgean/)
+   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antunesgean/){:target="_blank"} 
    
 Alguns projetos desenvolvidos e tecnologias vistas/aprendidas estão listados abaixo:
 
