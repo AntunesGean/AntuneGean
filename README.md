@@ -7,9 +7,12 @@ Atualmente, estou fazendo uma segunda graduiação em Sistemas para Internet e f
 
 Estou animado para aplicar minhas habilidades em programação e meu conhecimento em comunicação e design para criar experiências digitais únicas, criativas e eficazes.
 
-Alguns projetos desenvolvidos e tecnologias vistas/aprendidas estão listados abaixo:
+Qualquer dúvida, só me chamar no linkedin:
 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ingean-antunes-02b521192/)
+   
+Alguns projetos desenvolvidos e tecnologias vistas/aprendidas estão listados abaixo:
+
    
    <a href="https://github.com/antunesgean">
     <img height="170vw" src="https://github-readme-stats.vercel.app/api?username=antunesgean&show_icons=true&count_private=true&theme=github_dark"/>
