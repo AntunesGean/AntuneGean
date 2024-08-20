@@ -1,9 +1,9 @@
 <h1 align="left">Oi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Gean! Tudo bem?</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=antunesgean&color=yellow" alt="Profile views" /> </p> -->
 
-Sou um profissional de publicidade e propaganda com experiência em gerenciamento e criação de projetos criativos e soluções de marketing. Estou migrando minha carreira para o desenvolvimento web ou mobile, e atualmente estou me dedicando a aprender mais sobre a área.
+Sou um profissional de publicidade e propaganda com experiência em gerenciamento e criação de projetos criativos e soluções de marketing. Estou migrando minha carreira para o desenvolvimento web ou mobile.
 
-Atualmente, estou fazendo uma segunda graduiação em Sistemas para Internet e finalizei o curso livre de desenvolvimento full stack da Trybe, onde tive a oportunidade de trabalhar com tecnologias como React, Node e Python. Onde construi projetos do início ao fim. 
+Finalizei o curso livre de desenvolvimento full stack da Trybe, onde tive a oportunidade de trabalhar com tecnologias como React, Node e Python. Onde construi projetos do início ao fim. 
 
 Estou animado para aplicar minhas habilidades em programação e meu conhecimento em comunicação e design para criar experiências digitais únicas, criativas e eficazes.
 
